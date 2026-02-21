@@ -19,29 +19,14 @@
 
 <div align="center">
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Mega's Notes](#megas-notes) &nbsp;·&nbsp; [Courses & Labs](#courses-labs) &nbsp;·&nbsp; [Practicals](#practicals) &nbsp;·&nbsp; [Assessments](#assessments) &nbsp;·&nbsp; [Mini-Project](#miniproject) &nbsp;·&nbsp; [YouTube Playlist](#youtube-playlist) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  
 
 
 
 
 </div>
 
----
 
-<!-- AUTHORS -->
-<div align="center">
-
-  <a name="authors"></a>
-  ## Authors
-
-  **Terna Engineering College | Computer Engineering | Batch of 2022**
-
-| <a href="https://github.com/Amey-Thakur"><img src="https://github.com/Amey-Thakur.png" width="150" height="150" alt="Amey Thakur"></a><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-green.svg)](https://orcid.org/0000-0001-5644-1575) | <a href="https://github.com/msatmod"><img src="Mega/Mega.png" width="150" height="150" alt="Mega Satish"></a><br>[**Mega Satish**](https://github.com/msatmod)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-green.svg)](https://orcid.org/0000-0002-1844-9557) |
-| :---: | :---: |
-
-</div>
-
----
 
 <!-- OVERVIEW -->
 <a name="overview"></a>
